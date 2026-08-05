@@ -1,1 +1,2 @@
 File created to find the diff btw remote and local repo.
+Again changed for pulling from remote to local.
